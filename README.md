@@ -1,1 +1,0 @@
-# STARLUX-payment-calculator
